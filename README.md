@@ -9,7 +9,7 @@ Implemented the CONV and POOLING layers in numpy, both forward and backward prop
 Implemented the ConvNet using tensorflow, to classify images in SIGNS dataset  
   
 * #### **Week 2**  
-[Residual Networks](https://github.com/virtually-real1/Deep-Learning-Specialization/blob/main/convolutional_NN/W2/Residual_Networks_v2a.ipynb)
+[Residual Networks](https://github.com/virtually-real1/Deep-Learning-Specialization/blob/main/convolutional_NN/W2/Residual_Networks_v2a.ipynb)  
 Implemented the basic building blocks of residual networks, then train the ResNet using SIGNS dataset  
   
 * #### **Week 3**  
